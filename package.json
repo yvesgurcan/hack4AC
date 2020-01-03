@@ -30,7 +30,7 @@
     "eslint-friendly-formatter": "^3.0.0",
     "eslint-loader": "^2.0.0",
     "eslint-plugin-import": "^2.9.0",
-    "eslint-plugin-vue": "^4.4.0",
+    "eslint-plugin-vue": "^4.7.1",
     "quasar-cli": "^0.15.14"
   },
   "engines": {
