@@ -17,7 +17,7 @@
     "axios": "^0.18.0",
     "lodash": "^4.17.5",
     "mailgun-js": "^0.16.0",
-    "moment": "^2.22.0",
+    "moment": "^2.24.0",
     "quasar-framework": "^0.15.10",
     "shrimp-vue-components": "^1.2.47",
     "vuelidate": "^0.6.2"
