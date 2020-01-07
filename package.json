@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.13",
     "mailgun-js": "^0.16.0",
     "moment": "^2.22.0",
     "quasar-framework": "^0.15.10",
